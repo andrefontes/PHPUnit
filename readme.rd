@@ -1,4 +1,5 @@
 https://www.youtube.com/watch?v=2aiJuOV8pto
+https://docs.phpunit.de/en/10.4/assertions.html
 
 PHPUnit para iniciantes, para quem não sabe nada sobre o phpunit, como instalar o phpunit e diversas maneiras de fazer testes usando ele.
 Fazer os testes com o phpunit sem precisar rodar uma linha de comando, usando uma extensão do vscode.
